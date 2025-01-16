@@ -1,0 +1,3 @@
+A highly conserved sequence is one that has remained relatively unchanged far back up the phylogenetic tree, indicating that a sequence has been maintained by natural selection with possible functional significance. Analysis of conserved positions in protein sequence can reveal the importance of each position for the protein’s structure or function. This pipeline will allow you to explore the conservation levels and associated motifs of your protein family of interest, and further delve into its phylogenetic relationships among other proteins and species.
+
+Here is a detailed user/maintenance manual: [Protein_Conservation.pdf](https://github.com/user-attachments/files/18438888/Protein_Conservation.pdf)
